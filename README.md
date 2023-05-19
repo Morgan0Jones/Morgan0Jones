@@ -2,7 +2,7 @@
 - 👀 I’m interested in </>
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on bullding the feature
-- 📫 How to reach me send a pegion
+- 📫 How to reach me "send a pegion"
 
 <!---
 Morgan0Jones/Morgan0Jones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
